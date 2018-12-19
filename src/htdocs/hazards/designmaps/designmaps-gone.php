@@ -17,22 +17,24 @@
 <p class="alert info">
   Due to insufficient resources and the recent development of similar web 
 	tools by third parties, the USGS has replaced its former <i>U.S. Seismic 
-	Design Maps</i> web applications with web services that can be accessed 
+	Design Maps</i> web applications with web services that can be used 
 	through the third-party tools.
   <br /><br />
-  Whereas the former web applications each interacted with users through a 
-	graphical user interface (GUI), the replacement web services receive the 
-	inputs (e.g. latitude and longitude) in the form of a web address and 
-	return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, 
-	without supplementary graphics. The replacement options are described 
+  Whereas the former USGS web applications each interacted with users 
+	through a graphical user interface (GUI), the replacement web services 
+	receive the	inputs (e.g. latitude and longitude) in the form of a web 
+	address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in 
+	text form, without supplementary graphics. 
+  <br /><br />
+	Your options for using the replacement USGS web services are described 
 	below.
 </p>
 
 <h2>Third-party Graphical User Interfaces (GUIs)</h2>
 <p>
-  Most users will find third-party GUIs like the following to be more 
-	usable than the replacement web services, and more like the former 
-	USGS applications:
+  Most users will find third-party GUIs like the following more usable than 
+	the replacement USGS web services, and more like the former USGS 
+	applications:
 </p>
 <ul>
   <li><a href="https://asce7hazardtool.online/">ASCE 7 Hazard Tool</a></li>
